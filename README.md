@@ -5,8 +5,9 @@
 **Автоматическое прохождение тестов на Moodle — платформа «ирбис-дистант».**
 
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)
-![Release](https://img.shields.io/badge/release-v2.0-1f6feb)
-![Offline](https://img.shields.io/badge/UI-новый%20консольный-8a2be2)
+![Release](https://img.shields.io/github/v/release/NOTyeamu/Distant-Console-Public?style=flat-square&label=release)
+![Downloads](https://img.shields.io/github/downloads/NOTyeamu/Distant-Console-Public/total?style=flat-square)
+![UI](https://img.shields.io/badge/UI-новый%20консольный-8a2be2?style=flat-square)
 
 [Что это](#-что-это) • [Возможности](#-возможности) • [Как работает](#-как-это-работает) • [Установка](#-установка) • [Использование](#-использование) • [FAQ](#-faq)
 
